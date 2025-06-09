@@ -200,8 +200,4 @@ cython_debug/
 results/
 synthetic_data/
 
-# 大型数据文件
-assets/*.mat
-assets/*/*.mat
-
 results/
